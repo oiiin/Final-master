@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/movie_info"
+        android:icon="@drawable/movie"
+        android:title="Ticketmaster"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/ticket_master"
+        android:icon="@drawable/ticket"
+        android:title="soccer"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/pexels"
+        android:icon="@drawable/pexels"
+        android:title="Pexels"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/soccer_highlights"
+        android:icon="@drawable/soccer"
+        android:title="soccer"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/info"
+        android:icon="@drawable/info"
+        android:title="info"
+        app:showAsAction="always" />
+
+</menu>

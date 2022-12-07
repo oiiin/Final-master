@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/rated_d"
+        android:layout_width="199dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="20dp"
+        android:text="Rated"
+        app:layout_constraintStart_toStartOf="@+id/director_d"
+        app:layout_constraintTop_toBottomOf="@+id/director_d" />
+
+    <TextView
+        android:id="@+id/plot_d"
+        android:layout_width="207dp"
+        android:layout_height="82dp"
+        android:layout_marginTop="20dp"
+        android:text="Plot"
+        app:layout_constraintStart_toStartOf="@+id/rated_d"
+        app:layout_constraintTop_toBottomOf="@+id/rated_d" />
+
+    <TextView
+        android:id="@+id/title_d"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:text="Title"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/actors_d"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:text="Actors"
+        app:layout_constraintStart_toStartOf="@+id/title_d"
+        app:layout_constraintTop_toBottomOf="@+id/title_d" />
+
+    <TextView
+        android:id="@+id/director_d"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:text="Director"
+        app:layout_constraintStart_toStartOf="@+id/actors_d"
+        app:layout_constraintTop_toBottomOf="@+id/actors_d" />
+
+    <ImageView
+        android:id="@+id/img_d"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintStart_toStartOf="@+id/plot_d"
+        app:layout_constraintTop_toBottomOf="@+id/plot_d"
+        tools:srcCompat="@tools:sample/avatars" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

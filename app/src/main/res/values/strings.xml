@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="fav_button">View Favourites</string>
+    <string name="save_button">Save to Favourites</string>
+    <string name="toast">Sucessfully added game to favourites</string>
+    <string name="viewFav"> Game was added to database (view app inspection), favourites page is not working right now</string>
+    <string name="helpTitle">Help</string>
+    <string name="help">Soccer Match Highlights App. Click on a game to view the details, and watch the highlights.On the details page you will be able to save your favourite games. Created by Ibrahim Mahfouz. Version 1.0.0</string>
+    <string name="home">home</string>
+    <string name="favorite">favorite</string>
+    <string name="type_movie">Type movie name</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="actors">Actors</string>
+    <string name="director">Director</string>
+    <string name="rated">Rated</string>
+    <string name="runtime">Runtime</string>
+    <string name="plot">Plot</string>
+    <string name="add">ADD TO FAVORITES</string>
+    <string name="search">SEARCH</string>
+    <string name="help_info">This is Movie Information application that requires
+    your input to provide you with your movie information and poster
+    if available in OMDB server You can add Favorite Movies to your
+        account by clicking the heart shaped button</string>
+
+
+</resources>

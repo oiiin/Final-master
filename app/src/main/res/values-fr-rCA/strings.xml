@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Final</string>
+    <string name="fav_button">Afficher les favoris</string>
+    <string name="save_button">enregistrer dans les favoris</string>
+    <string name="help">Application de faits saillants des matchs de football. Cliquez sur un jeu pour voir les détails, et regardez les faits saillants. Sur la page de détails, vous pourrez enregistrer vos jeux préférés. Créé par Ibrahim Mahfouz. Édition 1.0.0</string>
+    <string name="toast">Jeu ajouté avec succès aux favoris</string>
+    <string name="viewFav">Le jeu a été ajouté à la base de données (voir l\'inspection de l\'application), la page des favoris ne fonctionne pas pour le moment</string>
+    <string name="helpTitle">Aider</string>
+
+
+
+</resources>
