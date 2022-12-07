@@ -23,5 +23,23 @@
     if available in OMDB server You can add Favorite Movies to your
         account by clicking the heart shaped button</string>
 
+    <string name="favHeader1">Add to Favorites</string>
+    <string name="favHeader2">Favorited</string>
+    <string name="cityHeader">Enter a city</string>
+    <string name="radiusHeader">Enter radius</string>
+    <string name="continueButton">Continue</string>
+    <string name="noPriceRange">This event has no price range</string>
+    <string name="prHeader">Price Range</string>
+    <string name="purchaseTickets">Click here to purchase tickets</string>
+    <string name="TMheader">TicketMaster Event List</string>
+    <string name="favSliderHeader">Display Favorites</string>
+    <string name="alertDia">Are you sure you want to remove:</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="removed">You removed this event from favorites!</string>
+    <string name="undo">Undo</string>
+    <string name="favToast">Added to Favorites!</string>
+    <string name="TM_help">Help</string>
+    <string name="TM_helpMessage">Click one of the events to see details and add to your favorites.</string>
 
 </resources>

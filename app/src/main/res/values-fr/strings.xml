@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Final</string>
+    <string name="favHeader1">Ajouter aux Favoris</string>
+    <string name="favHeader2">Favori</string>
+    <string name="cityHeader">Entrez une ville</string>
+    <string name="radiusHeader">Entrez le rayon</string>
+    <string name="continueButton">Continuer</string>
+    <string name="noPriceRange">Cet événement n\'a pas de fourchette de prix</string>
+    <string name="prHeader">Échelle des prix</string>
+    <string name="purchaseTickets">Cliquez ici pour acheter des billets</string>
+    <string name="TMheader">TicketMaster Liste des événements</string>
+    <string name="favSliderHeader">Afficher les favoris</string>
+    <string name="alertDia">Êtes-vous sûr de vouloir désinstaller:</string>
+    <string name="no">Non</string>
+    <string name="yes">Oui</string>
+    <string name="removed">Vous avez supprimé cet événement des favoris!</string>
+    <string name="undo">annuler</string>
+    <string name="favToast">Ajouté aux Favoris!</string>
+    <string name="TM_help">Aider</string>
+    <string name="TM_helpMessage">Cliquez sur l\'un des événements pour voir les détails et l\'ajouter à vos favoris.</string>
+</resources>

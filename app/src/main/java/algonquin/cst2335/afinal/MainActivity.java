@@ -12,6 +12,8 @@ import android.view.MenuItem;
 import algonquin.cst2335.afinal.Movie_part.Movie_MainActivity;
 import algonquin.cst2335.afinal.Movie_part.Movie_SecondActivity;
 import algonquin.cst2335.afinal.Soccer_part.MainActivitySoccer;
+import algonquin.cst2335.afinal.TicketMaster.TMLogin;
+import algonquin.cst2335.afinal.TicketMaster.TicketMaster;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -38,8 +40,8 @@ public class MainActivity extends AppCompatActivity {
 
     public void startTicketMasterActivity() {
         // add movie class
-       // Intent ticketMasterActivity = new Intent(this, .class);
-       // startActivity(ticketMasterActivity);
+       Intent ticketMasterActivity = new Intent(this, TMLogin.class);
+       startActivity(ticketMasterActivity);
     }
 
     public void startPexelsActivity() {
